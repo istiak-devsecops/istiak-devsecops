@@ -1,6 +1,6 @@
  ☁️🏄 Istiak  
 
-**`Digital Craftsman (Cloud Engineer/Solutions Architect/AIOps/devsecops)`**
+**`Digital Craftsman (Cloud Engineer/Solutions Architect/AIOps/DevSecOps)`**
 
 ## About me
 
@@ -35,23 +35,7 @@ Helping others learn and implement secure, scalable solutions.
 ---
 
 ## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <!-- GitHub Stats Card -->
-      <img alt="Istiak's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=istiak-devsecops&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-      <!-- Streak Stats -->
-      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=istiak-devsecops&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<!-- Top Languages Card -->
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiak-devsecops&layout=compact&theme=tokyonight&hide_border=true" />
-
+![Istiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=istiak-devsecops&show_icons=true&hide_border=true&count_private=true&title_color=ffffff&icon_color=00ff00&text_color=808080&bg_color=00000000)
 ---
 
 ## 🌐 Connect with Me  
