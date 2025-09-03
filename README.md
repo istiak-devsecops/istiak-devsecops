@@ -1,22 +1,61 @@
-<h1 align="center">Hi 👋, I'm MD. ISTIAK AHMED</h1>
-<h3 align="center">A passionate DevOps and Cloud Engineer</h3>
+# Hey 👋, I'm Istiak  
 
-- 🌱 I’m currently learning **DevOps and Cloud**
+🔐 **DevSecOps Engineer** | ☁️ **Cloud Enthusiast** | 🐧 **Linux Explorer** | **AIOps** 
 
-- 💬 Ask me about **Linux, Bash, Python**
+## About me
 
-- 📫 How to reach me **https://www.linkedin.com/in/istiak-devops/**
+I build, automate, and secure cloud & DevOps systems.  
+Sharing my journey in **DevSecOps, Security Automation, and Cloud Infrastructure**.  
+Helping others learn and implement secure, scalable solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/istiak-devops/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="istiak-devops/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=istiak-devsecops&show_icons=true&locale=en&layout=compact" alt="istiak-devsecops" /></p>
+- **Languages:** Python, Golang, Bash, YAML  
+- **DevOps Tools:** Docker, Kubernetes, Ansible, Terraform  
+- **CI/CD:** GitHub Actions, Jenkins, GitLab CI  
+- **Cloud:** AWS, GCP, Azure  
+- **Security:** Trivy, OWASP ZAP, Snyk, Vault  
+- **OS:** Linux (Ubuntu, CentOS)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=istiak-devsecops&show_icons=true&locale=en" alt="istiak-devsecops" /></p>
+[![My Skills](https://skillicons.dev/icons?i=python,go,bash,git,github,jenkins,docker,kubernetes,ansible,terraform,aws,gcp,azure,ubuntu,redhat)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=istiak-devsecops&" alt="istiak-devsecops" /></p>
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🔒 [Secure CI/CD Pipeline](https://github.com/istiak-devsecops/secure-cicd) | Automated CI/CD pipeline with built-in security scans | Jenkins, Docker, Trivy |
+| ☁️ [AWS Infra as Code](https://github.com/istiak-devsecops/aws-iac) | Infrastructure setup using Terraform & Ansible | Terraform, Ansible |
+| 🐧 [Linux Automation Scripts](https://github.com/istiak-devsecops/linux-scripts) | Handy Bash scripts for DevOps & SysAdmin tasks | Bash, Linux |
+| 🐍 [Python DevOps Utilities](https://github.com/istiak-devsecops/python-devops-tools) | Python scripts for automation & monitoring | Python |
+
+---
+
+## 📊 GitHub Stats  
+
+<!-- GitHub Stats Card -->
+![Istiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=istiak-devsecops&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- Top Languages Card -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=istiak-devsecops&layout=compact&theme=tokyonight&hide_border=true)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=istiak-devsecops&theme=tokyonight&hide_border=true)
+
+---
+
+## 🌐 Connect with Me  
+
+<a href="https://www.linkedin.com/in/istiak-devops/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Istiak-blue?style=flat&logo=linkedin" />
+</a>
+<a href="https://github.com/istiak-devsecops" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-istiak--devsecops-black?style=flat&logo=github" />
+</a>
+ 
+---
+
+⭐️ *“Learning every day, sharing every step — building the future of DevSecOps.”*
