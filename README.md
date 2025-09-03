@@ -1,6 +1,6 @@
-# Hey 👋, I'm Istiak  
+ ☁️🏄 Istiak  
 
-🔐 **`DevSecOps Engineer`** | ☁️ **`Cloud Enthusiast`** | 🐧 **`Linux Explorer`** | 🧠 **`AIOps`** 
+🔐 **`Digital Craftsman (Cloud Architecture/System Desigener/AIOps Manager)`**
 
 ## About me
 
