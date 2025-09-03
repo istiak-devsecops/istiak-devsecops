@@ -1,6 +1,6 @@
  ☁️🏄 Istiak  
 
-**`Digital Craftsman (Cloud Architecture/System Desigener/AIOps Manager)`**
+**`Digital Craftsman (Cloud Engineer/Solutions Architect/AIOps/devsecops)`**
 
 ## About me
 
