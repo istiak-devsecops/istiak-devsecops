@@ -34,16 +34,23 @@ Helping others learn and implement secure, scalable solutions.
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<!-- GitHub Stats Card -->
-![Istiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=istiak-devsecops&show_icons=true&theme=tokyonight&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <!-- GitHub Stats Card -->
+      <img alt="Istiak's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=istiak-devsecops&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <!-- Streak Stats -->
+      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=istiak-devsecops&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <!-- Top Languages Card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=istiak-devsecops&layout=compact&theme=tokyonight&hide_border=true)
-
-<!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=istiak-devsecops&theme=tokyonight&hide_border=true)
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiak-devsecops&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
