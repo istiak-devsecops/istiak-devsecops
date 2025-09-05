@@ -46,7 +46,10 @@ Helping others learn and implement secure, scalable solutions.
 <a href="https://github.com/istiak-devsecops" target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-istiak--devsecops-black?style=flat&logo=github" />
 </a>
- 
+<a href="mailto:istiak@example.com" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/Email-istiak.ahmed.devsecops@gmail.com-red?style=flat&logo=gmail" />
+</a>
+
 ---
 
 ⭐️ *“Learning every day, sharing every step — building the future of DevSecOps.”*
