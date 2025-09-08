@@ -17,7 +17,7 @@ Helping others learn and implement secure, scalable solutions.
 - **CI/CD:** GitHub Actions, Jenkins, GitLab CI  
 - **Cloud:** AWS, GCP, Azure  
 - **Security:** Trivy, OWASP ZAP, Snyk, Vault  
-- **OS:** Linux (Ubuntu, CentOS)
+- **OS:** Linux (Ubuntu, Red Hat)
 
 [![My Skills](https://skillicons.dev/icons?i=python,go,bash,git,github,jenkins,docker,kubernetes,ansible,terraform,aws,gcp,azure,ubuntu,redhat)](https://skillicons.dev)
 
