@@ -4,9 +4,9 @@
 
 ## About me
 
-I build, automate, and secure cloud & DevOps systems.  
-Sharing my journey in **DevSecOps, Security Automation, and Cloud Infrastructure**.  
-Helping others learn and implement secure, scalable solutions.
+- I build, automate, and secure cloud & DevOps systems.  
+- Sharing my journey in **DevSecOps, Security - Automation, and Cloud Infrastructure**.  
+- Helping others learn and implement secure, scalable solutions.
 
 ---
 
