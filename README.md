@@ -27,10 +27,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🔒 [Secure CI/CD Pipeline](https://github.com/istiak-devsecops/secure-cicd) | Automated CI/CD pipeline with built-in security scans | Jenkins, Docker, Trivy |
-| ☁️ [AWS Infra as Code](https://github.com/istiak-devsecops/aws-iac) | Infrastructure setup using Terraform & Ansible | Terraform, Ansible |
 | 🐧 [Linux Automation Scripts](https://github.com/istiak-devsecops/linux-scripts) | Handy Bash scripts for DevOps & SysAdmin tasks | Bash, Linux |
 | 🐍 [Python DevOps Utilities](https://github.com/istiak-devsecops/python-devops-tools) | Python scripts for automation & monitoring | Python |
+| 🔒 [Secure CI/CD Pipeline](https://github.com/istiak-devsecops/secure-cicd) | Automated CI/CD pipeline with built-in security scans | Jenkins, Docker, Trivy |
+| ☁️ [AWS Infra as Code](https://github.com/istiak-devsecops/aws-iac) | Infrastructure setup using Terraform & Ansible | Terraform, Ansible |
 
 ---
 
