@@ -19,7 +19,7 @@
 - **Security:** Trivy, OWASP ZAP, Snyk, Vault  
 - **OS:** Linux (Ubuntu, Red Hat)
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,bash,git,github,jenkins,docker,kubernetes,ansible,terraform,aws,gcp,azure,ubuntu,redhat)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,git,github,jenkins,docker,kubernetes,ansible,terraform,aws,gcp,azure,ubuntu,redhat)](https://skillicons.dev)
 
 ---
 
