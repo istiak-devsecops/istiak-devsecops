@@ -12,14 +12,14 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, Golang, Bash, YAML  
+- **Languages:** ✅Python, Golang, ✅Bash, YAML  
 - **DevOps Tools:** Docker, Kubernetes, Ansible, Terraform  
-- **CI/CD:** GitHub Actions, Jenkins, GitLab CI  
-- **Cloud:** AWS, GCP, Azure  
+- **CI/CD:** ✅GitHub Actions, Jenkins, GitLab CI  
+- **Cloud:** ✅AWS, GCP, Azure  
 - **Security:** Trivy, OWASP ZAP, Snyk, Vault  
-- **OS:** Linux (Ubuntu, Red Hat)
+- **OS:** ✅Linux (Ubuntu, Red Hat)
 
-[![My Skills](https://skillicons.dev/icons?i=python,bash,git,github,jenkins,docker,kubernetes,ansible,terraform,aws,gcp,azure,ubuntu,redhat)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,bash,git,github,jenkins,docker,kubernetes,ansible,terraform,aws,gcp,azure,ubuntu,redhat)](https://skillicons.dev)
 
 ---
 
