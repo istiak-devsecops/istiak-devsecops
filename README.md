@@ -36,9 +36,15 @@
 
 ## 📊 GitHub Stats
 
-![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=istiak-devsecops&theme=transparent&hide_border=true)
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=istiak-devsecops&theme=transparent&hide_border=true)
-![Istiak's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=istiak-devsecops&theme=transparent&hide_border=true&bg_color=00000000&)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=istiak-devsecops&theme=dark&hide_border=true" alt="Repos by Language" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=istiak-devsecops&theme=dark&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=istiak-devsecops&theme=dark&hide_border=true" alt="Istiak's GitHub stats" />
+</p>
+
 
 ---
 
