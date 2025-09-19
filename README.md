@@ -35,7 +35,11 @@
 ---
 
 ## 📊 GitHub Stats
-![Istiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=istiak-devsecops&show_icons=true&hide_border=true&count_private=true&title_color=ffffff&icon_color=00ff00&text_color=808080&bg_color=00000000)
+
+![Repos by Language](https://github-readme-stats.vercel.app/api/top-langs/?username=istiak-devsecops&layout=donut&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=808080)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=istiak-devsecops&layout=donut&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=808080)
+![Istiak's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=istiak-devsecops&theme=dark&hide_border=true&bg_color=000000)
+
 ---
 
 ## 🌐 Connect with Me  
