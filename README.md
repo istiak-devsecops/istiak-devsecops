@@ -14,7 +14,7 @@
 
 - **Languages:** ✅Python, Golang, ✅Bash, YAML  
 - **DevOps Tools:** Docker, Kubernetes, Ansible, Terraform  
-- **CI/CD:** ✅GitHub Actions, Jenkins, GitLab CI  
+- **CI/CD:** GitHub Actions, Jenkins, GitLab CI  
 - **Cloud:** ✅AWS, GCP, Azure  
 - **Security:** Trivy, OWASP ZAP, Snyk, Vault  
 - **OS:** ✅Linux (Ubuntu, Red Hat)
