@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Cloud Engineer/Solutions Architect/AIOps/DevSecOps)`**
 
-## About me
+## Things i can do
 
 - **Cloud Infrastructure:** Build and manage AWS environments (VPC, IAM, EC2, S3, CloudWatch, etc.)  
 - **Automation:** Use Terraform, Python, and Bash to automate deployments and configuration  
