@@ -4,22 +4,32 @@
 
 ## About me
 
-- I build, automate, and secure cloud & DevOps systems.  
-- Sharing my journey in **DevSecOps, Security, Automation and Cloud Infrastructure**.  
-- Helping others learn and implement secure, scalable solutions.
+- **Cloud Infrastructure:** Build and manage AWS environments (VPC, IAM, EC2, S3, CloudWatch, etc.)  
+- **Automation:** Use Terraform, Python, and Bash to automate deployments and configuration  
+- **Security:** Apply IAM best practices, network hardening, and DevSecOps tools for compliance and safety  
+- **CI/CD:** Set up pipelines for seamless integration and deployment (GitHub Actions, Jenkins)
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Languages:** ✅Python, Golang, ✅Bash, YAML  
-- **DevOps Tools:** ✅Docker, Kubernetes, Ansible, Terraform  
+- **IaC:** Terraform, Ansible  
+- **Containers:** ✅Docker, Kubernetes (basics)  
 - **CI/CD:** GitHub Actions, Jenkins, GitLab CI  
-- **Cloud:** ✅AWS, GCP, Azure  
-- **Security:** Trivy, OWASP ZAP, Snyk, Vault  
+- **Cloud:** ✅AWS, Azure, GCP  
+- **Security:** IAM, ✅Security Groups, ✅NACL, Secrets Management, Cloud Security Auditing
+- **Monitoring:** CloudWatch, Prometheus, Grafana  
 - **OS:** ✅Linux (Ubuntu, Red Hat)
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,bash,git,github,jenkins,docker,kubernetes,ansible,terraform,aws,gcp,azure,ubuntu,redhat)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,bash,terraform,ansible,docker,kubernetes,jenkins,git,github,aws,azure,gcp,iam,cloudwatch,prometheus,grafana,linux,ubuntu,redhat)](https://skillicons.dev)
+
+---
+
+### 🚀 Current Focus
+- Building **secure, automated AWS infrastructure** with Terraform  
+- Strengthening **cloud security practices** through hands-on projects  
+- Learning and documenting **DevSecOps workflows**  
 
 ---
 
@@ -48,6 +58,12 @@
 
 ---
 
+### 🌱 A Bit About Me
+I’m a hands-on learner who believes real skills come from building, breaking, and fixing things.  
+Currently sharpening my expertise in **AWS networking**, **Terraform automation**, and **secure CI/CD pipelines**.  
+
+---
+
 ## 🌐 Connect with Me  
 
 <a href="https://www.linkedin.com/in/istiak-devops/" target="_blank">
@@ -61,5 +77,4 @@
 </a>
 
 ---
-
-⭐️ *“Learning every day, sharing every step — building the future of DevSecOps.”*
+> 💡 *“Automation without security is just a faster way to get hacked — I build systems that do both.”*
