@@ -13,12 +13,12 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** ✅Python, Golang, ✅Bash, YAML  
+- **Languages:** ✅Python, Golang, ✅Bash, ✅YAML  
 - **IaC:** Terraform, Ansible  
-- **Containers:** ✅Docker, Kubernetes (basics)  
+- **Containers:** ✅Docker, Kubernetes 
 - **CI/CD:** GitHub Actions, Jenkins, GitLab CI  
-- **Cloud:** ✅AWS, Azure, GCP  
-- **Security:** IAM, ✅Security Groups, ✅NACL, Secrets Management, Cloud Security Auditing
+- **Cloud:** ✅AWS(EC2,S3,VPC,RDS,Lambda,API gateway,ECS), Azure, GCP
+- **Security:** ✅IAM, ✅Security Groups, ✅NACL, Secrets Management, Cloud Security Auditing
 - **Monitoring:** CloudWatch, Prometheus, Grafana  
 - **OS:** ✅Linux (Ubuntu, Red Hat)
 
