@@ -16,7 +16,7 @@
 - **Languages:** ✅Python, Golang, ✅Bash, ✅YAML  
 - **IaC:** Terraform, Ansible  
 - **Containers:** ✅Docker, Kubernetes 
-- **CI/CD:** GitHub Actions, Jenkins, GitLab CI  
+- **CI/CD:** GitHub Actions, ✅Jenkins, GitLab CI  
 - **Cloud:** ✅AWS(EC2,S3,VPC,RDS,Lambda,API gateway,ECS), Azure, GCP
 - **Security:** ✅IAM, ✅Security Groups, ✅NACL, Secrets Management, Cloud Security Auditing
 - **Monitoring:** CloudWatch, Prometheus, Grafana  
