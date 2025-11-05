@@ -27,9 +27,13 @@
 ---
 
 ### 🚀 Current Focus
-- Building **secure, automated AWS infrastructure** with Terraform  
 - Strengthening **cloud security practices** through hands-on projects  
-- Learning and documenting **DevSecOps workflows**  
+- **Integration workflows** — building modular, scalable systems that connect services and automate pipelines.
+- **DevSecOps** — embedding security into every phase of the DevOps lifecycle, from CI/CD to runtime.
+- **Infrastructure as Code (IaC)** — mastering tools like Terraform and Ansible to provision, manage, and audit infrastructure declaratively.
+- **Kubernetes** — deploying, scaling, and securing containerized applications across clusters.
+- **Scripting for automation** — using Bash and Python to streamline ops, monitor systems, and build reusable tools.
+
 
 ---
 
