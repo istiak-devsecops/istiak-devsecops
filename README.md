@@ -27,7 +27,6 @@
 ---
 
 ### 🚀 Current Focus
-- Strengthening **cloud security practices** through hands-on projects  
 - **Integration workflows** — building modular, scalable systems that connect services and automate pipelines.
 - **DevSecOps** — embedding security into every phase of the DevOps lifecycle, from CI/CD to runtime.
 - **Infrastructure as Code (IaC)** — mastering tools like Terraform and Ansible to provision, manage, and audit infrastructure declaratively.
