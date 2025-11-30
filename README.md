@@ -44,6 +44,8 @@
 | 🐍 [Python DevOps Utilities](https://github.com/istiak-devsecops/python-devops-tools) | Python scripts for automation & monitoring | Python |
 | 🔒 [Secure CI/CD Pipeline](https://github.com/istiak-devsecops/secure-cicd) | Automated CI/CD pipeline with built-in security scans | Jenkins, Docker, Trivy |
 | ☁️ [AWS Infra as Code](https://github.com/istiak-devsecops/aws-iac) | Infrastructure setup using Terraform & Ansible | Terraform, Ansible |
+| 🚢 [Kubernetes DevOps Labs](https://github.com/istiak-devsecops/kubernetes-devops-labs) | End-to-end Kubernetes projects and monitoring with Prometheus & Grafana| Kubernetes, Docker, Helm, Prometheus, Grafana |
+
 
 ---
 
