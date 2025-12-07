@@ -40,13 +40,16 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🐧 [Linux Automation Scripts](https://github.com/istiak-devsecops/linux-scripts) | Handy Bash scripts for DevOps & SysAdmin tasks | Bash, Linux |
-| 🐍 [Python DevOps Utilities](https://github.com/istiak-devsecops/python-devops-tools) | Python scripts for automation & monitoring | Python |
-| 🔒 [Secure CI/CD Pipeline](https://github.com/istiak-devsecops/secure-cicd) | Automated CI/CD pipeline with built-in security scans | Jenkins, Docker, Trivy |
-| ☁️ [AWS Infra as Code](https://github.com/istiak-devsecops/aws-iac) | Infrastructure setup using Terraform & Ansible | Terraform, Ansible |
-| 🚢 [Kubernetes DevOps Labs](https://github.com/istiak-devsecops/kubernetes-devops-labs) | End-to-end Kubernetes projects and monitoring with Prometheus & Grafana| Kubernetes, Docker, Helm, Prometheus, Grafana |
-| 🎮 [EKS Fargate 2048 Deployment](https://github.com/istiak-devsecops/game-2048) | Deploying the 2048 game app on EKS using Fargate, OIDC, and ALB Ingress Controller | AWS EKS, Fargate, Ingress, OIDC, Helm |
-
+|[Linux Automation Scripts](https://github.com/istiak-devsecops/linux-scripts) | Handy Bash scripts for DevOps & SysAdmin tasks | Bash, Linux |
+|[Python DevOps Utilities](https://github.com/istiak-devsecops/python-devops-tools) | Python scripts for automation & monitoring | Python |
+|[EKS Fargate 2048](https://github.com/istiak-devsecops/game-2048) | Deploying the 2048 game app on EKS using Fargate, OIDC, and ALB Ingress Controller | AWS EKS, Fargate, Ingress, OIDC, Helm |
+|[Two Tier Flask App](https://github.com/istiak-devsecops/secure-cicd) | Automates deployment for a 2-tier Flask+MySQL app with Jenkins, Docker, and Docker Compose | Flask, MySQL, Docker, Docker Compose, Jenkins, GitHub, AWS EC2 |
+|[Three Tier App on Kubernetes](https://github.com) | Demonstrates microservices architecture with Dockerized frontend, backend, and database on Kubernetes | React.js, Node.js, MongoDB, Docker, Kubernetes, Helm |
+|[Infrastructure as Code (Terraform)](https://github.com/istiak-devsecops/aws-iac) | Full cloud environment setup using Terraform on AWS & Azure with reusable modules | Terraform, HCL, AWS, Azure |
+|[Observability Stack - Prometheus & Grafana](https://github.com) | Complete monitoring stack for apps with Prometheus, Grafana dashboards, and Alert Manager | Prometheus, Grafana, Alert Manager, Kubernetes, AWS, Helm |
+|[AI-Assisted DevOps (AIOps)](https://github.com/) | AI agent assists DevOps workflows, analyzes logs, triggers automated actions, and suggests fixes | Python, LLM (Hugging Face / OpenAI), CI/CD, Alert Manager, Grafana dashboards, Chatbot |
+|[Event-Driven Autoscaling](https://github.com/) | Demonstrates KEDA-based autoscaling for Kubernetes workloads triggered by events | Kubernetes, KEDA, GKE, Metrics Server, Docker |
+|[MLOps - Deploy ML Model](https://github.com/) | Deploy machine learning models into production with CI/CD and monitoring pipelines | Python, ML frameworks (TensorFlow / PyTorch), Docker, Kubernetes, CI/CD |
 
 
 ---
