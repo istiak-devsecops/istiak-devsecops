@@ -45,6 +45,8 @@
 | 🔒 [Secure CI/CD Pipeline](https://github.com/istiak-devsecops/secure-cicd) | Automated CI/CD pipeline with built-in security scans | Jenkins, Docker, Trivy |
 | ☁️ [AWS Infra as Code](https://github.com/istiak-devsecops/aws-iac) | Infrastructure setup using Terraform & Ansible | Terraform, Ansible |
 | 🚢 [Kubernetes DevOps Labs](https://github.com/istiak-devsecops/kubernetes-devops-labs) | End-to-end Kubernetes projects and monitoring with Prometheus & Grafana| Kubernetes, Docker, Helm, Prometheus, Grafana |
+| 🎮 [EKS Fargate 2048 Deployment](https://github.com/istiak-devsecops/game-2048) | Deploying the 2048 game app on EKS using Fargate, OIDC, and ALB Ingress Controller | AWS EKS, Fargate, Ingress, OIDC, Helm |
+
 
 
 ---
