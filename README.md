@@ -16,10 +16,10 @@
 - **Languages:** ✅Python, Golang, ✅Bash, ✅YAML  
 - **IaC:** Terraform, Ansible  
 - **Containers:** ✅Docker, ✅Kubernetes, ✅Helm 
-- **CI/CD:** ✅GitHub Actions, ✅Jenkins, ✅GitLab CI, ✅Trivy  
+- **CI/CD:** ✅GitHub Actions, ✅Jenkins, ✅GitLab CI, ✅Trivy, ✅ArgoCD, ✅SonarQube, ✅OWASP  
 - **Cloud:** ✅AWS(EC2,S3,VPC,RDS,Lambda,API gateway,ECS), Azure, GCP
-- **Security:** ✅IAM, ✅Security Groups, ✅NACL, Secrets Management, Cloud Security Auditing
-- **Monitoring:** CloudWatch, ✅Prometheus, ✅Grafana  
+- **Security:** ✅IAM, ✅Security Group, ✅NACL, ✅Secrets Management, Cloud Security Auditing
+- **Monitoring:** ✅CloudWatch, ✅Prometheus, ✅Grafana, ✅Loki  
 - **OS:** ✅Linux (Ubuntu, Red Hat)
 
 [![My Skills](https://skillicons.dev/icons?i=python,go,bash,terraform,ansible,docker,kubernetes,jenkins,git,github,aws,azure,gcp,iam,cloudwatch,prometheus,grafana,linux,ubuntu,redhat)](https://skillicons.dev)
