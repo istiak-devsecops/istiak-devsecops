@@ -21,7 +21,7 @@
 - **Monitoring:** ✅CloudWatch, ✅Prometheus, ✅Grafana, ✅Loki  
 - **OS:** ✅Linux (Ubuntu, Red Hat)
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,bash,terraform,ansible,docker,kubernetes,jenkins,git,github,aws,azure,gcp,iam,cloudwatch,prometheus,grafana,linux,ubuntu,redhat)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,bash,terraform,ansible,docker,kubernetes,jenkins,git,github,aws,azure,gcp,prometheus,grafana,linux,ubuntu,redhat)](https://skillicons.dev)
 
 ---
 
