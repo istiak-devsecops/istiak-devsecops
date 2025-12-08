@@ -15,10 +15,9 @@
 
 - **Languages:** ✅Python, Golang, ✅Bash, ✅YAML  
 - **IaC:** Terraform, Ansible  
-- **Containers:** ✅Docker, ✅Kubernetes, ✅Helm 
+- **Containers & Orchestration:** ✅Docker, ✅Kubernetes, ✅Helm 
 - **CI/CD:** ✅GitHub Actions, ✅Jenkins, ✅GitLab CI, ✅Trivy, ✅ArgoCD, ✅SonarQube, ✅OWASP  
-- **Cloud:** ✅AWS(EC2,S3,VPC,RDS,Lambda,API gateway,ECS), Azure, GCP
-- **Security:** ✅IAM, ✅Security Group, ✅NACL, ✅Secrets Management, Cloud Security Auditing
+- **Cloud:** ✅AWS(EC2,S3,VPC,RDS,Lambda,API gateway,EKS), Azure, GCP
 - **Monitoring:** ✅CloudWatch, ✅Prometheus, ✅Grafana, ✅Loki  
 - **OS:** ✅Linux (Ubuntu, Red Hat)
 
