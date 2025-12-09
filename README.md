@@ -4,10 +4,11 @@
 
 ## Things i can do
 
-- **Cloud Infrastructure:** Build and manage AWS environments (VPC, IAM, EC2, S3, CloudWatch, etc.)  
-- **Automation:** Use Terraform, Python, and Bash to automate deployments and configuration  
-- **Security:** Apply IAM best practices, network hardening, and DevSecOps tools for compliance and safety  
-- **CI/CD:** Set up pipelines for seamless integration and deployment (GitHub Actions, Jenkins)
+- **Cloud Infrastructure:** Build API-driven AWS environments with modern patterns (VPC design, IAM, EKS, event-driven services).
+- **Automation & GitOps:** Manage infrastructure with Terraform, GitOps workflows and fully automated delivery pipelines.
+- **Platform Engineering:** Design internal platforms that offer self-service, secure defaults, and Infrastructure-as-APIs for developers.
+- **Security & Hardening:** Apply cloud security controls, identity policies and network guardrails as part of the platform.
+- **Observability & AIOps:** Set up metrics, logs, tracing and intelligent alerting to give teams real insight into system behavior.
 
 ---
 
