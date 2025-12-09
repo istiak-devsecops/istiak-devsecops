@@ -15,13 +15,13 @@
 
 - **Languages:** ✅Python, Golang, ✅Bash, ✅YAML  
 - **IaC:** Terraform, Crossplane, pulumi,  Ansible  
-- **Containers & Orchestration:** ✅Docker, ✅Kubernetes, ✅Helm 
+- **Containers & Orchestration:** ✅Docker, ✅Kubernetes, ✅Helm, ✅Kafka, ✅RabbitMQ
 - **CI/CD:** ✅GitHub Actions, ✅Jenkins, ✅GitLab CI, ✅Trivy, ✅ArgoCD, ✅SonarQube, ✅OWASP  
 - **Cloud:** ✅AWS(EC2,S3,VPC,RDS,Lambda,API gateway,EKS), Azure, GCP
 - **Monitoring:** ✅CloudWatch, ✅Prometheus, ✅Grafana, ✅Loki  
 - **OS:** ✅Linux (Ubuntu, Red Hat)
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,bash,terraform,ansible,docker,kubernetes,jenkins,git,github,aws,azure,gcp,prometheus,grafana,linux,ubuntu,redhat)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,bash,terraform,ansible,docker,kubernetes,kafka,rabbitmq,jenkins,git,github,aws,azure,gcp,prometheus,grafana,linux,ubuntu,redhat)](https://skillicons.dev)
 
 ---
 
