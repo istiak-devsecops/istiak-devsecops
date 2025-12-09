@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** ✅Python, Golang, ✅Bash, ✅YAML  
-- **IaC:** Terraform, Ansible  
+- **IaC:** Terraform, Crossplane, pulumi,  Ansible  
 - **Containers & Orchestration:** ✅Docker, ✅Kubernetes, ✅Helm 
 - **CI/CD:** ✅GitHub Actions, ✅Jenkins, ✅GitLab CI, ✅Trivy, ✅ArgoCD, ✅SonarQube, ✅OWASP  
 - **Cloud:** ✅AWS(EC2,S3,VPC,RDS,Lambda,API gateway,EKS), Azure, GCP
