@@ -1,6 +1,6 @@
  ☁️🏄 Istiak  
 
-**`Digital Craftsman (Cloud Engineer/Solutions Architect/AIOps/DevSecOps)`**
+**`Digital Craftsman (Cloud Engineer/ Platform Enginner /Solutions Architect/AIOps/DevSecOps)`**
 
 ## Things i can do
 
@@ -71,7 +71,7 @@
 
 ### 🌱 A Bit About Me
 I’m a hands-on learner who believes real skills come from building, breaking, and fixing things.  
-Currently sharpening my expertise in **AWS networking**, **Terraform automation**, and **secure CI/CD pipelines**.  
+Currently sharpening my expertise in **System Designing**, **Infrastructure as APIs**, **GitOps**, **Observability & AIOps**, **Event-Driven Architecture & API Intelligence** 
 
 ---
 
