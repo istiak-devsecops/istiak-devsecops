@@ -45,7 +45,8 @@
 |[Python DevOps Utilities](https://github.com/istiak-devsecops/python-devops-tools) | Python scripts for automation & monitoring | Python |
 |[EKS Fargate 2048](https://github.com/istiak-devsecops/game-2048) | Deploying the 2048 game app on EKS using Fargate, OIDC, and ALB Ingress Controller | AWS EKS, Fargate, Ingress, OIDC, Helm |
 |[Hub-and-Spoke GitOps with ArgoCD](https://github.com/istiak-devsecops/gitops-multi-cluster-hub-spoke-deployment) | Sets up a multi-cluster GitOps environment with a hub ArgoCD cluster connected to multiple spoke clusters | AWS EKS, ArgoCD, GitOps|
-|[Two Tier Flask App](https://github.com/istiak-devsecops/secure-cicd) | Automates deployment for a 2-tier Flask+MySQL app with Jenkins, Docker, and Docker Compose | Flask, MySQL, Docker, Docker Compose, Jenkins, GitHub, AWS EC2 |
+|[Two Tier tiktaktoe-game](https://github.com/istiak-devsecops/tiktaktoe-2-tier-game) | Automated deployment of a 2‑tier Tic‑Tac‑Toe game using GitHub Actions, GitHub Container Registry and Kubernetes with GitOps reconciliation.
+| Github Actions, Docker, kubernetes, argoCD | |
 |[Three Tier App on Kubernetes](https://github.com/istiak-devsecops/marn-full-stack-app) | Demonstrates microservices architecture with Dockerized frontend, backend, and database on Kubernetes | React.js, Node.js, MongoDB, Docker, Kubernetes, Helm, Terraform, Grafana|
 |[Infrastructure as Code (Terraform)](https://github.com/istiak-devsecops/aws-iac) | Full cloud environment setup using Terraform on AWS & Azure with reusable modules | Terraform, HCL, AWS, Azure |
 |[Observability Stack - Prometheus & Grafana](https://github.com) | Complete monitoring stack for apps with Prometheus, Grafana dashboards, and Alert Manager | Prometheus, Grafana, Alert Manager, Kubernetes, AWS, Helm |
