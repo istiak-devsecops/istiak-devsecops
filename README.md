@@ -15,7 +15,7 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** ✅Python, Golang, ✅Bash, ✅YAML  
-- **IaC:** ✅Terraform,✅Terragrunt ✅OpenTofu, ✅Ansible, ✅Packer  
+- **IaC:** ✅Terraform,✅Terragrunt, ✅OpenTofu, ✅Ansible, ✅Packer  
 - **Containers & Orchestration:** ✅Docker, ✅Kubernetes, ✅Helm, ✅Kafka
 - **cert-manager:** ✅HasiCorp Vault, ✅Traefik, ✅AWS ACM  
 - **CI/CD:** ✅GitHub Actions, ✅Jenkins, ✅GitLab CI, ✅Trivy, ✅ArgoCD, ✅SonarQube, ✅OWASP  
