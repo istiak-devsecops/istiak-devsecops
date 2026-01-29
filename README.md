@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** ✅Python, ✅Golang, ✅Bash, ✅YAML  
+- **Languages:** ✅Python, ✅Golang, ✅Rust, ✅Bash, ✅YAML  
 - **IaC:** ✅Terraform,✅Terragrunt, ✅OpenTofu, ✅Crossplane, ✅Ansible, ✅Packer  
 - **Containers & Orchestration:** ✅Docker, ✅Kubernetes, ✅Helm, ✅Kafka
 - **cert-manager:** ✅HasiCorp Vault, ✅Traefik, ✅AWS ACM  
@@ -23,7 +23,7 @@
 - **Monitoring:** ✅CloudWatch, ✅Prometheus, ✅Grafana, ✅Loki, ✅ElasticSearch, ✅OpenSearch, ✅Jaeger
 - **OS:** ✅Linux (Ubuntu, Red Hat)
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,bash,terraform,ansible,docker,kubernetes,kafka,rabbitmq,jenkins,git,github,aws,azure,gcp,prometheus,grafana,linux,ubuntu,redhat)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,rust,bash,terraform,ansible,docker,kubernetes,kafka,rabbitmq,jenkins,git,github,aws,azure,gcp,prometheus,grafana,linux,ubuntu,redhat)](https://skillicons.dev)
 
 ---
 
